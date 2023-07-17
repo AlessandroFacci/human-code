@@ -29,7 +29,7 @@ vero
 
 # SE
 
-abbiamo almeno 1 ora guardiamo un film scegliendo tra :
+abbiamo almeno 2 ora guardiamo un film scegliendo tra :
 
 - lista film non guardati
 
@@ -51,4 +51,6 @@ guardo una serie scegliendo tra :
 
 - lista serie consigliate è vuota
 
-vai a: - lista serie non guardate
+vai a:
+
+- lista serie non guardate
